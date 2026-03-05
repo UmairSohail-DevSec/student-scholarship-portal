@@ -5,7 +5,6 @@ This is a complete web-based system designed to help students find the right sch
 ---
 
 ## 🛠️ System Architecture & Workflow
-
 The system is built on a modular architecture that ensures a seamless flow between data entry and user consumption:
 
 1. **Authentication Layer:** Secure login/signup for students and a protected gateway for administrators.
@@ -15,7 +14,6 @@ The system is built on a modular architecture that ensures a seamless flow betwe
 ---
 
 ## 🚀 Core Features
-
 ### 👤 Student Experience
 * **Personalized Dashboard:** Users can manage their academic profiles.
 * **Smart Filtering:** Instant matching with scholarships based on Degree Level (Bachelors, Masters, PhD) and Marks.
@@ -29,7 +27,6 @@ The system is built on a modular architecture that ensures a seamless flow betwe
 ---
 
 ## 💻 Technical Stack
-
 | Category | Technology |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3 (Responsive Design), JavaScript |
